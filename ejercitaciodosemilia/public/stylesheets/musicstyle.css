@@ -1,0 +1,52 @@
+body {
+    background-image: url('../images/emilia-music-top.jpg');
+    font-family: 'Open Sans', sans-serif;
+    background-repeat: no-repeat;
+    background-size: 1300px 145px;
+}
+
+#redes {
+    text-align: right;
+    position: relative;
+    top: 13px;
+}
+
+#redes li {
+    display: inline;
+}
+
+#lista {
+    text-align: right;
+    background-color: rgba(255, 255, 255, 0.5);
+    line-height: 55px;
+    position: relative;
+    top: 15px;
+}
+
+#lista .link {
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+
+h1 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 56px;
+}
+
+#canciones {
+    list-style: decimal-leading-zero;
+}
+
+.nav {
+    text-decoration: none;
+    color: rgb(191, 191, 191);
+    font-size: 13px;
+    position: relative;
+    left: 35px;
+}
+
+h2 {
+    font-family: 'Work Sans', sans-serif;
+}
